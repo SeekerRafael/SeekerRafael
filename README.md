@@ -29,6 +29,12 @@
 
 ---
 
+### 🏅 Certification
+
+- ✅ [Responsive Web Design – FreeCodeCamp](https://www.freecodecamp.org/certification/SeekerRafael/responsive-web-design)
+
+---
+
 ### 📫 How to reach me
 
 - 📧 Email: rafael.ariasf03@gmail.com 
